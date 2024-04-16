@@ -10,7 +10,6 @@ The objective of this project is to develop a Python application that allows use
 
 ![Screenshot](Querybox.png)
 
-![Screenshot](review.png)
 
 ## User Interface
 
