@@ -8,6 +8,9 @@ The Python code reviewer GenAI App is a Python application powered by OpenAI's A
 
 The objective of this project is to develop a Python application that allows users to submit their Python code for review and receive feedback on potential bugs along with suggestions for fixes. The application aims to be user-friendly, efficient, and provide accurate bug reports and fixed code snippets.
 
+![Screenshot](Querybox.png)
+![Screenshot](review.png)
+
 ## User Interface
 
 The application features a clean and intuitive user interface built using Streamlit. Users can easily input their Python code into the application through a text area.
